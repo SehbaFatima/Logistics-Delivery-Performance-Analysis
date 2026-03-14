@@ -1,21 +1,16 @@
+
 # Logistics Delivery Performance Analysis
 
-This project analyzes logistics delivery data to identify delays, evaluate carrier performance, and generate operational insights.
+This project analyzes logistics delivery data to identify shipment delays and evaluate carrier performance.
 
 ## Features
-- Delivery time analysis
-- Carrier performance evaluation
+- Delivery time calculation
+- Carrier performance analysis
 - Warehouse efficiency analysis
-- Data visualization using Python
+- Data visualization
 
-## Tools Used
-Python, Pandas, Matplotlib, Excel
-
-## Project Structure
-data/ – datasets
-src/ – analysis scripts
-outputs/ – generated charts and reports
-notebooks/ – exploratory analysis
+## Tools
+Python, Pandas, Excel, Matplotlib
 
 ## How to Run
 
